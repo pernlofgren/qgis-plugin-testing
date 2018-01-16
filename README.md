@@ -1,7 +1,6 @@
 ## Testing QGIS Scripts
 
-.. image:: https://img.shields.io/badge/License-BSD%203--Clause-blue.svg
-    :target: https://github.com/pernlofgren/qgis-plugin-testing/blob/master/LICENSE
+[![LICENSE](https://img.shields.io/badge/License-BSD%203--Clause-blue.svg)](https://github.com/pernlofgren/qgis-plugin-testing/blob/master/LICENSE)
 
 This repo has been set up as a resource for automated testing of QGIS plugins.
 
