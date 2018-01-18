@@ -1,4 +1,4 @@
-## Testing QGIS Scripts
+## Testing QGIS Plugins
 
 [![LICENSE](https://img.shields.io/badge/License-BSD%203--Clause-blue.svg)](https://github.com/pernlofgren/qgis-plugin-testing/blob/master/LICENSE)
 

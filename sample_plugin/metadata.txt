@@ -1,0 +1,26 @@
+[general]
+name=Sample Plugin
+qgisMinimumVersion=2.14
+description=
+version=dev
+author=linz
+email=
+
+about= Sample plugin
+
+tracker=https://github.com/pernlofgren/qgis-plugin-testing/issues
+repository=https://github.com/pernlofgren/qgis-plugin-testing
+
+changelog=
+
+# Tags are comma separated with spaces allowed
+tags=testing, postgis, geometry
+
+homepage=https://github.com/pernlofgren/qgis-plugin-testing
+category=Plugins
+icon=icon.png
+# experimental flag
+experimental=True
+
+# deprecated flag (applies to the whole plugin, not just a single version)
+deprecated=False
